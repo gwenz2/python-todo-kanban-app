@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "Default": {
+      "file": "project_tasks.json"
+    },
+    "neww": {
+      "file": "project_neww.json"
+    }
+  },
+  "current_project": "Default"
+}
