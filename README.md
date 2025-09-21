@@ -1,4 +1,4 @@
-# python-todo-kanban-app
+# Python ToDo List and Kanban Software Application
 
 A modern, simple productivity suite by **Gwen Balajediong**.  
 Manage your projects and todos with a beautiful, intuitive interface inspired by Kanban and Trello boards.
@@ -23,10 +23,6 @@ Manage your projects and todos with a beautiful, intuitive interface inspired by
 2. **Run the executable** (`TodoListManager.exe` or `ProjectTaskManager.exe`).
 3. Your data will be saved in `Documents/GwenProject/`.
 
-## Screenshots
-
-![App Screenshot](screenshot.png)
-![App Screenshot](screenshot1.png)
 
 ## Build from Source
 
